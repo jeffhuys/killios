@@ -1,0 +1,5 @@
+Version 1.2: Adds output text. Prints out NVRAM after installation, as well as a brief phrase.
+
+Version 1.1: Actually makes it brick your device. Removed from Cydia repository due to safety reasons
+
+Version 1.0: Initial release

@@ -1,3 +1,4 @@
 #!/bin/bash
 nvram DClr_override=00020000D8D9D700E3E4E10000000420
-reboot
+nvram -p
+echo "You're fucked. Congratulations."
