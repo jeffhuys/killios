@@ -2,3 +2,5 @@
 nvram DClr_override=00020000D8D9D700E3E4E10000000420
 nvram -p
 echo "You're fucked. Congratulations."
+echo "Now buy a Google Nexus."
+echo "http://google.com/nexus"
