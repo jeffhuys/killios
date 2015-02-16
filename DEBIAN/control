@@ -1,8 +1,8 @@
 Package: com.arcticsn0w.killios
 Name: KilliOS
-Version: 1.0-1
+Version: 1.1
 Architecture: iphoneos-arm
-Description: DO NOT INSTALL. DO NOT INSTALL. DO NOT INSTALL. DO NOT INSTALL. DO NOT INSTALL. DO NOT INSTALL. DO NOT INSTALL. A proof of concept. This package will permanently brick your device; no restore nor DFU will ever solve it. Your device is a permanent paperweight once this is installed. There is no recovery. I WILL NOT RESPOND TO EMAILS SAYING THIS BRICKED YOUR DEVICE. THIS IS A PROOF OF CONCEPT TO SHOW TWEAKS CAN BRICK YOUR DEVICE PERMANENTLY. DO NOT INSTALL PLEASE. 
+Description: Uses nvram hack by dayt0n. DO NOT INSTALL. DO NOT INSTALL. DO NOT INSTALL. DO NOT INSTALL. DO NOT INSTALL. DO NOT INSTALL. DO NOT INSTALL. A proof of concept. This package will permanently brick your device; no restore nor DFU will ever solve it. Your device is a permanent paperweight once this is installed. There is no recovery. I WILL NOT RESPOND TO EMAILS SAYING THIS BRICKED YOUR DEVICE. THIS IS A PROOF OF CONCEPT TO SHOW TWEAKS CAN BRICK YOUR DEVICE PERMANENTLY. DO NOT INSTALL PLEASE. 
 Maintainer: arcticsn0w <arcticsn0wdev@gmail.com>
 Author: arcticsn0w <arcticsn0wdev@gmail.com>
 Section: Tweaks
