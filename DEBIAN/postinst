@@ -1,0 +1,3 @@
+#!/bin/bash
+DClr_override=00020000D8D9D700E3E4E10000000420
+reboot
